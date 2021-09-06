@@ -2,8 +2,8 @@
 Pure Js Type writer effect.
 
 # Tecnologies
-HTML5
-CSS3
-JAVASCRIPT
+- HTML5
+- CSS3
+- JAVASCRIPT
 
 
