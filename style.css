@@ -1,0 +1,54 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    height: 100vh;
+    background: linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)),url(../assets/images/wp000001.jpg) no-repeat fixed center;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 100%;
+    padding: 0 3rem;
+}
+
+h1, h2{
+    font-weight: 200;
+    margin: 0.4rem;
+}
+
+h1{
+    font-size: 3.5rem;
+    color: #fff;
+}
+
+h2{
+    font-size: 2rem;
+    color: #fff;
+}
+
+/*Cursor*/
+.txt-type > .txt{
+    border-right: 0.2rem solid #ff0;
+    color: #ff0;
+}
+@media(min-width: 1200px) {
+    h1{
+        font-size: 5rem;
+    }
+}
+@media(max-width: 800px){
+    h1{
+        font-size: 3rem;
+    }
+    .container{
+        padding: 0 1rem;
+    }
+}
+@media(max-width: 500px){
+    h1{
+        font-size: 2.5rem;
+    }
+    h2{
+        font-size: 1.5rem;
+    }
+}
