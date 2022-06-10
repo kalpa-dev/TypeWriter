@@ -1,9 +1,3 @@
 # Type-writer
-Pure Js Type writer effect.
-
-### Tecnologies
-- HTML5
-- CSS3
-- JAVASCRIPT
-
-You are welcome to update this source code if it contains any miss matches.
+### Type writer animation made using vanilla JS.
+If you like this, Please make sure to hit the star button at the top right corner ☺
